@@ -1,0 +1,21 @@
+/* JavaScript-file for the implementation of the application with React.js */
+
+html {
+    background-color: #787878;
+    font-family: source-sans-pro, sans-serif;
+}
+
+.wrapper {
+    background-color: white;
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 5rem;
+    padding: 5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.14),
+        0 2px 5px rgba(0, 0, 0, 0.20);
+    text-align: center;
+}
+
+.content {
+    display: inline-block;
+}
