@@ -1,0 +1,5001 @@
+[{
+        "id": 1,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 2,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 3,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 4,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 5,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 6,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 7,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 8,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 9,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 10,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 11,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 12,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 13,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 14,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 15,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 16,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 17,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 18,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 19,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 20,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 21,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 22,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 23,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 24,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 25,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 26,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 27,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 28,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 29,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 30,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 31,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 32,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 33,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 34,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 35,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 36,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 37,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 38,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 39,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 40,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 41,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 42,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 43,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 44,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 45,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 46,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 47,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 48,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 49,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 50,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 51,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 52,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 53,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 54,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 55,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 56,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 57,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 58,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 59,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 60,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 61,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 62,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 63,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 64,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 65,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 66,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 67,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 68,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 69,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 70,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 71,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 72,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 73,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 74,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 75,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 76,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 77,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 78,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 79,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 80,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 81,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 82,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 83,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 84,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 85,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 86,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 87,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 88,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 89,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 90,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 91,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 92,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 93,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 94,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 95,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 96,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 97,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 98,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 99,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 100,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 101,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 102,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 103,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 104,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 105,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 106,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 107,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 108,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 109,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 110,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 111,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 112,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 113,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 114,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 115,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 116,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 117,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 118,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 119,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 120,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 121,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 122,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 123,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 124,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 125,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 126,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 127,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 128,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 129,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 130,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 131,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 132,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 133,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 134,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 135,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 136,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 137,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 138,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 139,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 140,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 141,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 142,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 143,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 144,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 145,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 146,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 147,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 148,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 149,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 150,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 151,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 152,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 153,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 154,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 155,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 156,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 157,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 158,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 159,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 160,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 161,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 162,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 163,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 164,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 165,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 166,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 167,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 168,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 169,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 170,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 171,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 172,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 173,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 174,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 175,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 176,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 177,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 178,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 179,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 180,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 181,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 182,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 183,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 184,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 185,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 186,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 187,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 188,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 189,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 190,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 191,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 192,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 193,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 194,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 195,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 196,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 197,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 198,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 199,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 200,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 201,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 202,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 203,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 204,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 205,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 206,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 207,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 208,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 209,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 210,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 211,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 212,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 213,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 214,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 215,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 216,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 217,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 218,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 219,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 220,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 221,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 222,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 223,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 224,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 225,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 226,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 227,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 228,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 229,
+        "section": "B",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 230,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 231,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 232,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 233,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 234,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 235,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 236,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 237,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 238,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 239,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 240,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 241,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 242,
+        "section": "C",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 243,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 244,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 245,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 246,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 247,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 248,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 249,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 250,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 251,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 252,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 253,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 254,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 255,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 256,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 257,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 258,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 259,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 260,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 261,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 262,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 263,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 264,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 265,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 266,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 267,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 268,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 269,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 270,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 271,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 272,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 273,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 274,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 275,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 276,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 277,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 278,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 279,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 280,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 281,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 282,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 283,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 284,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 285,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 286,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 287,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 288,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 289,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 290,
+        "section": "A",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 291,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 292,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 293,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 294,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 295,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 296,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 297,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 298,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 299,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 300,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 301,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 302,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 303,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 304,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 305,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 306,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 307,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 308,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 309,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 310,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 311,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 312,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 313,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 314,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 315,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 316,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 317,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 318,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 319,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 320,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 321,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 322,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 323,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 324,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 325,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 326,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 327,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 328,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 329,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 330,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 331,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 332,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 333,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 334,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 335,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 336,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 337,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 338,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 339,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 340,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 341,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 342,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 343,
+        "section": "A",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 344,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 345,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 346,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 347,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 348,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 349,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 350,
+        "section": "C",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 351,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 352,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 353,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 354,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 355,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 356,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 357,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 358,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 359,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 360,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 361,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 362,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 363,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 364,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 365,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 366,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 367,
+        "section": "E",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 368,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 369,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 370,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 371,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 372,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 373,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 374,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 375,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 376,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 377,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 378,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 379,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 380,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 381,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 382,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 383,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 384,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 385,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 386,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 387,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 388,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 389,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 390,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 391,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 392,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 393,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 394,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 395,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 396,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 397,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 398,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 399,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 400,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 401,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 402,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 403,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 404,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 405,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 406,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 407,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 408,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 409,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 410,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 411,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 412,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 413,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 414,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 415,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 416,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 417,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 418,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 419,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 420,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 421,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 422,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 423,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 424,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 425,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 426,
+        "section": "E",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 427,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 428,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 429,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 430,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 431,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 432,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 433,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 434,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 435,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 436,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 437,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 438,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 439,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 440,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 441,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 442,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 443,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 444,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 445,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 446,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 447,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 448,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 449,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 450,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 451,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 452,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 453,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 454,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 455,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 456,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 457,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 458,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 459,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 460,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 461,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 462,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 463,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 464,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 465,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 466,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 467,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 468,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 469,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 470,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 471,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 472,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 473,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 474,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 475,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 476,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 477,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 478,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 479,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 480,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 481,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 482,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 483,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 484,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 485,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 486,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 487,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 488,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 489,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 490,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 491,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 492,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 493,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 494,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 495,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 496,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 497,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 498,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 499,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 500,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 501,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 502,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 503,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 504,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 505,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 506,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 507,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 508,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 509,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 510,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 511,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 512,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 513,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 514,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 515,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 516,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 517,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 518,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 519,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 520,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 521,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 522,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 523,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 524,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 525,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 526,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 527,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 528,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 529,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 530,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 531,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 532,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 533,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 534,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 535,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 536,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 537,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 538,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 539,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 540,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 541,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 542,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 543,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 544,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 545,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 546,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 547,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 548,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 549,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 550,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 551,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 552,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 553,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 554,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 555,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 556,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 557,
+        "section": "A",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 558,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 559,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 560,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 561,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 562,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 563,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 564,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 565,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 566,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 567,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 568,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 569,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 570,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 571,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 572,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 573,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 574,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 575,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 576,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 577,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 578,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 579,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 580,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 581,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 582,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 583,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 584,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 585,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 586,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 587,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 588,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 589,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 590,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 591,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 592,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 593,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 594,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 595,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 596,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 597,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 598,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 599,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 600,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 601,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 602,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 603,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 604,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 605,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 606,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 607,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 608,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 609,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 610,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 611,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 612,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 613,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 614,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 615,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 616,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 617,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 618,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 619,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 620,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 621,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 622,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 623,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 624,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 625,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 626,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 627,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 628,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 629,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 630,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 631,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 632,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 633,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 634,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 635,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 636,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 637,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 638,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 639,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 640,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 641,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 642,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 643,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 644,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 645,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 646,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 647,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 648,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 649,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 650,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 651,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 652,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 653,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 654,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 655,
+        "section": "A",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 656,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 657,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 658,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 659,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 660,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 661,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 662,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 663,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 664,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 665,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 666,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 667,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 668,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 669,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 670,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 671,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 672,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 673,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 674,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 675,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 676,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 677,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 678,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 679,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 680,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 681,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 682,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 683,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 684,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 685,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 686,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 687,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 688,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 689,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 690,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 691,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 692,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 693,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 694,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 695,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 696,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 697,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 698,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 699,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 700,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 701,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 702,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 703,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 704,
+        "section": "E",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 705,
+        "section": "B",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 706,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 707,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 708,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 709,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 710,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 711,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 712,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 713,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 714,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 715,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 716,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 717,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 718,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 719,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 720,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 721,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 722,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 723,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 724,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 725,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 726,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 727,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 728,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 729,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 730,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 731,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 732,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 733,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 734,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 735,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 736,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 737,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 738,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 739,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 740,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 741,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 742,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 743,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 744,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 745,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 746,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 747,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 748,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 749,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 750,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 751,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 752,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 753,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 754,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 755,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 756,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 757,
+        "section": "F",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 758,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 759,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 760,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 761,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 762,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 763,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 764,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 765,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 766,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 767,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 768,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 769,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 770,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 771,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 772,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 773,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 774,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 775,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 776,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 777,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 778,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 779,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 780,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 781,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 782,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 783,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 784,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 785,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 786,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 787,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 788,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 789,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 790,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 791,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 792,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 793,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 794,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 795,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 796,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 797,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 798,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 799,
+        "section": "F",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 800,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 801,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 802,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 803,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 804,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 805,
+        "section": "C",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 806,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 807,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 808,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 809,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 810,
+        "section": "B",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 811,
+        "section": "C",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 812,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 813,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 814,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 815,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 816,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 817,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 818,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 819,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 820,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 821,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 822,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 823,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 824,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 825,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 826,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 827,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 828,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 829,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 830,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 831,
+        "section": "D",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 832,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 833,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 834,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 835,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 836,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 837,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 838,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 839,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 840,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 841,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 842,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 843,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 844,
+        "section": "E",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 845,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 846,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 847,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 848,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 849,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 850,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 851,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 852,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 853,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 854,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 855,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 856,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 857,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 858,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 859,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 860,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 861,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 862,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 863,
+        "section": "F",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 864,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 865,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 866,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 867,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 868,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 869,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 870,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 871,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 872,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 873,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 874,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 875,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 876,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 877,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 878,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 879,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 880,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 881,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 882,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 883,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 884,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 885,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 886,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 887,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 888,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 889,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 890,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 891,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 892,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 893,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 894,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 895,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 896,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 897,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 898,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 899,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 900,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 901,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 902,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 903,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 904,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 905,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 906,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 907,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 908,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 909,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 910,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 911,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 912,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 913,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 914,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 915,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 916,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 917,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 918,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 919,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 920,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 921,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 922,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 923,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 924,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 925,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 926,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 927,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 928,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 929,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 930,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 931,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 932,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 933,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 934,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 935,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 936,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 937,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 938,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 939,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 940,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 941,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 942,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 943,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 944,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 945,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 946,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 947,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 948,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 949,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 950,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 951,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 952,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 953,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 954,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 955,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 956,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 957,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 958,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 959,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 960,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 961,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 962,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 963,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 964,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 965,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 966,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 967,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 968,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 969,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 970,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 971,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 972,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 973,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 974,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 975,
+        "section": "B",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 976,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 977,
+        "section": "E",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 978,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 979,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 980,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 981,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 982,
+        "section": "C",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 983,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 984,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 985,
+        "section": "F",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 986,
+        "section": "A",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 987,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 988,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 989,
+        "section": "D",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 990,
+        "section": "D",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 991,
+        "section": "C",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 992,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 993,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 994,
+        "section": "E",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 995,
+        "section": "B",
+        "type": "Familjeparkering"
+    },
+    {
+        "id": 996,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 997,
+        "section": "C",
+        "type": "Handikapparkering"
+    },
+    {
+        "id": 998,
+        "section": "F",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 999,
+        "section": "A",
+        "type": "Standardparkering"
+    },
+    {
+        "id": 1000,
+        "section": "B",
+        "type": "Familjeparkering"
+    }
+]

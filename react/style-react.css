@@ -1,43 +1,52 @@
 /* JavaScript-file for the implementation of the application with React.js */
 
-html {
-    background-color: #787878;
-    font-family: source-sans-pro, sans-serif;
-}
+  html {
+      background-color: #787878;
+      font-family: 'Avenir',
+          Helvetica,
+          Arial,
+          sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-align: center;
+      color: #2c3e50;
+      margin-top: 60px;
+  }
 
-.wrapper {
-    background-color: white;
-    margin: 0 auto;
-    width: 60%;
-    margin-top: 5rem;
-    padding: 5rem;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.14),
-        0 2px 5px rgba(0, 0, 0, 0.20);
-    text-align: center;
-}
+  .wrapper {
+      background-color: white;
+      margin: 0 auto;
+      width: 60%;
+      margin-top: 5rem;
+      padding: 5rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.14),
+          0 2px 5px rgba(0, 0, 0, 0.20);
+      text-align: center;
+  }
 
-.content {
-    display: inline-block;
-}
+  .content {
+      display: inline-block;
+  }
 
-#list {
-    border: black solid 0.05rem;
-    border-radius: 0.5rem;
-    overflow: hidden;
-    overflow-y: scroll;
-    height: 15rem;
-    padding: 0.5rem;
-}
+  .button {
+      border-radius: 0.5rem;
+      padding: 0.5rem;
+  }
 
-.button {
-    border: black solid 0.05rem;
-    margin-top: 1rem;
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    margin-right: 0.5rem;
-}
+  .button:hover {
+      opacity: 0.5;
+      cursor: pointer;
+  }
 
-.button:hover {
-    opacity: 0.5;
-    cursor: pointer;
-}
+  .list {
+      margin-top: 1rem;
+      overflow: hidden;
+      overflow-y: scroll;
+      height: 30rem;
+  }
+
+  .slotItem {
+      margin-top: 1rem;
+      border-bottom: 2px solid #ccc;
+      padding: 0.5rem;
+  }
