@@ -19,3 +19,25 @@ html {
 .content {
     display: inline-block;
 }
+
+#list {
+    border: black solid 0.05rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 15rem;
+    padding: 0.5rem;
+}
+
+.button {
+    border: black solid 0.05rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
