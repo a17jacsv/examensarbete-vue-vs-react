@@ -2,7 +2,8 @@
   <div class="wrapper">
     <div class="content">
       <h1>Parkingslots</h1>
-      <button class="button" v-on:click="getParkingslots">Visa Parkeringar</button>
+      <button class="button" v-on:click="getParkingslots">Visa Alla Parkeringar</button>
+      <button class="button" v-on:click="availableParkingslots">Visa Lediga Parkeringar</button>
       <div class="list">
         <div v-for="parkingslot in slotList" :key="parkingslot.id" class="slotItem">
           <div class="slot-id">
@@ -23,6 +24,7 @@
 </template>
 
 <script>
+import parkingslots from '../../public/parkingslots.json'
 export default {
   name: "Parkingslots",
   data() {
@@ -32,9 +34,12 @@ export default {
   },
   methods: {
     getParkingslots() {
-      fetch("parkingslots.json")
-        .then(response => response.json())
-        .then(data => (this.slotList = data));
+        this.slotList = parkingslots.slice(1, (Math.random() * (parkingslots.length * .2)) + parkingslots.length * .8);
+        console.log(this.slotList.length);
+    },
+    availableParkingslots() {
+        this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
+        console.log(this.slotList.length);
     }
   }
 };
@@ -61,6 +66,7 @@ export default {
 .button {
     border-radius: 0.5rem;
     padding: 0.5rem;
+    margin-right: 1rem;
 }
 .button:hover {
     opacity: 0.5;
