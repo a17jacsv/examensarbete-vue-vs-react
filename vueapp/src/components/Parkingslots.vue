@@ -5,17 +5,17 @@
       <button class="button" v-on:click="getParkingslots">Visa Alla Parkeringar</button>
       <button class="button" v-on:click="availableParkingslots">Visa Lediga Parkeringar</button>
       <div class="list">
-        <div v-for="parkingslot in slotList" :key="parkingslot.id" class="slotItem">
+        <div v-for="slot in slotList" :key="slot.id" class="slotItem">
           <div class="slot-id">
             <div>
-              <span>Parkeringsplats: {{parkingslot.id}}</span>
+              <span>Parkeringsplats: {{slot.id}}</span>
             </div>
             <div>
-              <span class="slot-section">Sektion: {{parkingslot.section}}</span>
+              <span class="slot-section">Sektion: {{slot.section}}</span>
             </div>
           </div>
           <div class="slot-type">
-            <span>Typ: {{parkingslot.type}}</span>
+            <span>Typ: {{slot.type}}</span>
           </div>
         </div>
       </div>
@@ -33,10 +33,12 @@ export default {
     };
   },
   methods: {
+    // Gets between 800 - 1000 of the total parkingslots from the json-file.
     getParkingslots() {
-        this.slotList = parkingslots.slice(1, (Math.random() * (parkingslots.length * .2)) + parkingslots.length * .8);
+        this.slotList = parkingslots.slice(1, (Math.random() * (parkingslots.length * .20)) + parkingslots.length * .80);
         console.log(this.slotList.length);
     },
+    // Gets all the available parkingslots between 50 - 200
     availableParkingslots() {
         this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
         console.log(this.slotList.length);
