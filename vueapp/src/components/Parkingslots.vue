@@ -33,12 +33,12 @@ export default {
     };
   },
   methods: {
-    // Gets between 800 - 1000 of the total parkingslots from the json-file.
+    // Shuffle and gets between 90% - 100% of the total parkingslots from the json-file.
     getParkingslots() {
-        this.slotList = parkingslots.slice(1, (Math.random() * (parkingslots.length * .20)) + parkingslots.length * .80);
+        this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * (parkingslots.length * .10)) + parkingslots.length * .90);
         console.log(this.slotList.length);
     },
-    // Gets all the available parkingslots between 50 - 200
+    // Shuffle and gets all the available parkingslots between 50 - 200
     availableParkingslots() {
         this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
         console.log(this.slotList.length);

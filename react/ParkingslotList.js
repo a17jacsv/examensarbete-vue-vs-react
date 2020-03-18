@@ -1,25 +1,8 @@
 import React, { Component } from 'react'
 import Parkingslots from './data/parkingslots.json'
 
-
 class ParkingslotList extends Component {
     render() {
-
-    var slotList = [];
-
-    // Gets between 800 - 1000 of the total parkingslots from the json-file.
-    function getParkingslots() {
-        slotList = Parkingslots.slice(1, (Math.random() * (Parkingslots.length * .2)) + Parkingslots.length * .8);
-        console.log(slotList.length);
-        console.log(slotList);
-    }
-    // Gets all the available parkingslots between 50 - 200
-    function availableParkingslots() {
-        slotList = Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
-        console.log(slotList.length);
-        console.log(slotList);
-    }
-
         return (
             <div className="wrapper">
                 <div className="content">
@@ -45,6 +28,21 @@ class ParkingslotList extends Component {
             </div>
         );
     }
+}
+
+var slotList = [];
+
+// Gets between 90% - 100% of the total parkingslots from the json-file.
+function getParkingslots() {
+    this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * (parkingslots.length * .10)) + parkingslots.length * .90);
+    console.log(slotList.length);
+    console.log(slotList);
+}
+// Gets all the available parkingslots between 50 - 200
+function availableParkingslots() {
+    slotList = Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
+    console.log(slotList.length);
+    console.log(slotList);
 }
 
 export default ParkingslotList;
