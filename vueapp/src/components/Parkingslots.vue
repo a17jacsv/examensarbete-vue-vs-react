@@ -24,7 +24,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import parkingslots from '../../public/parkingslots.json'
 export default {
