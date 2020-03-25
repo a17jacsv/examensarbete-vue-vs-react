@@ -1,21 +1,34 @@
 import React, { Component } from 'react'
 import Parkingslots from './data/parkingslots.json'
+import RandomSeed from './data/randomSeed.json'
 import {useState} from 'react'
-
 
 function ParkingslotList() {
     
+    var randomArr = RandomSeed;
+    const [randIdx, setRandIdx] = useState(0);
     const [slotList, setSlotList] = useState([]);
-    
+
+    // Gets a object from det randomArr that contains result from the for-loop that executed 100 000 math.random operations.
+    function getRand(){
+        setRandIdx(randIdx + 1);
+        console.log(randIdx);
+        return randomArr[randIdx%randomArr.length];
+    }
+
+    //for (let i = 0; i < 100000; i++) {
+    //    randomArr[i] = Math.random();
+    //}
+
     // Gets between 90% - 100% of the total parkingslots from the json-file.
     function getParkingslots() {
         document.getElementById("title").innerHTML = "Totala parkeringar";
-        setSlotList(Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * (Parkingslots.length * .10)) + Parkingslots.length * .90));
+        setSlotList(Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(getRand() * (Parkingslots.length * .10)) + Parkingslots.length * .90));
     }
     // Gets all the available parkingslots between 50 - 200
     function availableParkingslots() {
         document.getElementById("title").innerHTML = "Lediga parkeringar";
-        setSlotList(Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50));
+        setSlotList(Parkingslots.sort(() => .5 - getRand()).slice(0, Math.floor(getRand() * 151) + 50));
     }
         return (
             <div className="wrapper">

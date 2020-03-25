@@ -26,23 +26,31 @@
 </template>
 <script>
 import parkingslots from '../../public/parkingslots.json'
+import randomSeed from '../../public/randomSeed.json'
 export default {
   name: "Parkingslots",
   data() {
     return {
-      slotList: []
+      slotList: [],
+      randomArr: randomSeed,
+      randIdx: -1
     };
   },
   methods: {
+    getRand(){
+      this.randIdx++;
+      console.log(this.randIdx);
+      return this.randomArr[this.randIdx%this.randomArr.length];
+    },
     // Shuffle and gets between 90% - 100% of the total parkingslots from the json-file.
     getParkingslots() {
       document.getElementById("title").innerHTML = "Totala parkeringar";
-      this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * (parkingslots.length * .10)) + parkingslots.length * .90);
+      this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * (parkingslots.length * .10)) + parkingslots.length * .90);
     },
     // Shuffle and gets all the available parkingslots between 50 - 200
     availableParkingslots() {
       document.getElementById("title").innerHTML = "Lediga parkeringar";
-      this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(Math.random() * 151) + 50);
+      this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * 151) + 50);
     }
   }
 };
