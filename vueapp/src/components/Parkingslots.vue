@@ -37,6 +37,7 @@ export default {
     };
   },
   methods: {
+    // Gets a object from det randomArr that contains result from the for-loop that executed 100 000 math.random operations.
     getRand(){
       this.randIdx++;
       console.log(this.randIdx);
