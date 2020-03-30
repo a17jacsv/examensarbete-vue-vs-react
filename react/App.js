@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ParkingslotList from './ParkingslotList'
+import Parkingslot from './Parkingslot'
 
 class App extends Component {
     data() {
@@ -9,7 +9,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">   
-                <ParkingslotList />
+                <Parkingslot />
             </div> 
         );
     }
