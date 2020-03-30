@@ -4,7 +4,6 @@ import ParkingslotList from './ParkingslotList'
 class App extends Component {
     data() {
         return {
-            slotList: []
         };
     }
     render() {
