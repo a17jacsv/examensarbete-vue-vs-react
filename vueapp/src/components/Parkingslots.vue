@@ -2,8 +2,8 @@
   <div class="wrapper">
     <div class="content">
       <h1>Parkingslots</h1>
-      <button class="button" v-on:click="getParkingslots">Visa Alla Parkeringar</button>
-      <button class="button" v-on:click="availableParkingslots">Visa Lediga Parkeringar</button>
+      <button class="button" id="allaParkeringar" v-on:click="getParkingslots">Visa Alla Parkeringar</button>
+      <button class="button" id="ledigaParkeringar" v-on:click="availableParkingslots">Visa Lediga Parkeringar</button>
       <h3 id="title"></h3>
       <div class="counter">{{slotList.length}}</div>
       <div class="list">

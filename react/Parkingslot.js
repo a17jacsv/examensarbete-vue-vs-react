@@ -34,8 +34,8 @@ function ParkingslotList() {
             <div className="wrapper">
                 <div className="content">
                     <h1>Parkingslots</h1>
-                    <button className="button" onClick={getParkingslots}>Visa Alla Parkeringar</button>
-                    <button className="button" onClick={availableParkingslots}>Visa Lediga Parkeringar</button>
+                    <button className="button" id="allaParkeringar" onClick={getParkingslots}>Visa Alla Parkeringar</button>
+                    <button className="button" id="ledigaParkeringar" onClick={availableParkingslots}>Visa Lediga Parkeringar</button>
                     <h3 id="title"></h3>
                     <div className="counter">{slotList.length}</div>
                     <div className = "list" >
