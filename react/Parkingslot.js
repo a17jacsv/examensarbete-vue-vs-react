@@ -28,7 +28,7 @@ function ParkingslotList() {
     // Gets all the available parkingslots between 50 - 200
     function availableParkingslots() {
         document.getElementById("title").innerHTML = "Lediga parkeringar";
-        setSlotList(Parkingslots.sort(() => .5 - getRand()).slice(0, Math.floor(getRand() * 151) + 50));
+        setSlotList(Parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(getRand() * 151) + 50));
     }
         return (
             <div className="wrapper">
