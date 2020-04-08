@@ -33,25 +33,45 @@ export default {
     return {
       slotList: [],
       randomArr: randomSeed,
-      randIdx: -1
+      randIdx: -1,
+      scrapedData: [],
+      start: "",
+      end: "",
+      result: ""
     };
   },
   methods: {
     // Gets a object from det randomArr that contains result from the for-loop that executed 100 000 math.random operations.
-    getRand(){
+    getRand: function () {
       this.randIdx++;
       console.log(this.randIdx);
       return this.randomArr[this.randIdx%this.randomArr.length];
     },
     // Shuffle and gets between 90% - 100% of the total parkingslots from the json-file.
-    getParkingslots() {
+    getParkingslots: function () {
+      //Start the timer
+      this.start = performance.now();
       document.getElementById("title").innerHTML = "Totala parkeringar";
       this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * (parkingslots.length * .10)) + parkingslots.length * .90);
+      this.updated();
     },
     // Shuffle and gets all the available parkingslots between 50 - 200
-    availableParkingslots() {
+    availableParkingslots: function () {
       document.getElementById("title").innerHTML = "Lediga parkeringar";
       this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * 151) + 50);
+    },
+    updated: function () {
+      this.$nextTick(function () {
+      // End the timer 
+      this.end = performance.now();
+
+        // Calculate the result.
+        this.result = (this.end - this.start) + '\n';
+        console.log(this.result);
+        this.scrapedData.push(this.result);
+        //this.scrapedData.join('');
+        console.log(this.scrapedData);
+      })
     }
   }
 };
