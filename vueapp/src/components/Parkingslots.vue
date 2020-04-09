@@ -60,12 +60,13 @@ export default {
       document.getElementById("title").innerHTML = "Lediga parkeringar";
       this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * 151) + 50);
     },
-  
     updated: function () {
       this.$nextTick(function () {
         // End the timer 
         this.end = performance.now();
         // Calculate the result.
+        console.log("Start: " + this.start);
+        console.log("End: " + this.end);
         this.result = (this.end - this.start) + '\n';
         console.log(this.result);
         this.scrapedData.push(this.result);
