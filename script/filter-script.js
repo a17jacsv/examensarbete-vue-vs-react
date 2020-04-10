@@ -13,9 +13,9 @@
 (function() {
     'use strict';
 
-    // URL for the php-file for the scrapper for both React and Vue.
-    //const URL = 'http://localhost:8888/react-measurement/scraped_receiver-react.php';
+    // URL for the php-file for the scrapper for both Vue and react.
     const URL = 'http://localhost:8888/vue-measurement/scraped_receiver-vue.php';
+    //const URL = 'http://localhost:8888/react-measurement/scraped_receiver-react.php';
 
     // Container for the scraped data.
     var scrapedData = [];
@@ -48,34 +48,11 @@
         }
     }
 
-    function script() {
-        // Click the filterbutton you want to use.
-        allaParkeringarBtn.click();
-        //ledigaParkeringarBtn.click();
-
-        // start-variable
-        start;
-        // end-variable.
-        end = performance.now();
-
-        // Calculate the result.
-        result = (end - start) + '\n';
-        scrapedData.push(result);
-
-        counter++;
-
-        if (counter < numberOfClicks) {
-            setTimeout(script, 200);
-        }
-        else {
-            alert("Clicked " + scrapedData.length + " button(s).");
-            // Usage of .join() to delete the commas when printing out the result
-            ajaxCall(scrapedData.join(''));
-        }
-    }
-
     // Eventlistener that start the timer
     allaParkeringarBtn.addEventListener('click', function() {
+        //ledigaParkeringarBtn.addEventListener('click', function() {
+        //start = new Date().getTime();
+        //start = console.time();
         start = performance.now();
     });
 
@@ -86,6 +63,36 @@
 
     // Number of times the script will filter the parkingslots.
     var numberOfClicks = 10;
+
+    function script() {
+        // Click the filterbutton you want to use.
+        allaParkeringarBtn.click();
+        //ledigaParkeringarBtn.click();
+
+        // Checks if the application has 100% rendered the page
+        window.requestAnimationFrame(function () {
+            // end-variable.
+            end = performance.now();
+
+            // Calculate the result.
+            result = (end - start) + '\n';
+            console.log(result);
+            // Push the result to the array
+            scrapedData.push(result);
+
+            counter++;
+        });
+
+        // Checks that the script is runned correct quantity searches.
+        if (counter < numberOfClicks) {
+            setTimeout(script, 2000);
+        }
+        else {
+            alert("Clicked " + scrapedData.length + " button(s).");
+            // Usage of .join() to delete the commas when printing out the result
+            ajaxCall(scrapedData.join(''));
+        }
+    }
 
     //Starts the script
     script();

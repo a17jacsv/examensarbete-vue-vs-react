@@ -34,10 +34,6 @@ export default {
       slotList: [],
       randomArr: randomSeed,
       randIdx: -1,
-      scrapedData: [],
-      start: "",
-      end: "",
-      result: ""
     };
   },
   methods: {
@@ -53,26 +49,12 @@ export default {
       this.start = performance.now();
       document.getElementById("title").innerHTML = "Totala parkeringar";
       this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * (parkingslots.length * .10)) + parkingslots.length * .90);
-      this.updated();
+      //this.updated();
     },
     // Shuffle and gets all the available parkingslots between 50 - 200
     availableParkingslots: function () {
       document.getElementById("title").innerHTML = "Lediga parkeringar";
       this.slotList = parkingslots.sort(() => .5 - Math.random()).slice(0, Math.floor(this.getRand() * 151) + 50);
-    },
-    updated: function () {
-      this.$nextTick(function () {
-        // End the timer 
-        this.end = performance.now();
-        // Calculate the result.
-        console.log("Start: " + this.start);
-        console.log("End: " + this.end);
-        this.result = (this.end - this.start) + '\n';
-        console.log(this.result);
-        this.scrapedData.push(this.result);
-        //this.scrapedData.join('');
-        console.log(this.scrapedData);
-      })
     }
   }
 };
