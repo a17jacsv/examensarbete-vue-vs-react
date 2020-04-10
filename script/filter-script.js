@@ -32,6 +32,9 @@
     // All available parkingslots button.
     const ledigaParkeringarBtn = document.querySelector('#ledigaParkeringar');
 
+    // Number of times the script will filter the parkingslots.
+    var numberOfClicks = 10;
+
     // Function that handles the datatransfer, taken from dugga.iit.his.se
     function ajaxCall(data) {
         try {
@@ -58,9 +61,6 @@
     if (counter == null) {
         counter = 0;
     }
-
-    // Number of times the script will filter the parkingslots.
-    var numberOfClicks = 10;
 
     function script() {
         // Click the filterbutton you want to use.
