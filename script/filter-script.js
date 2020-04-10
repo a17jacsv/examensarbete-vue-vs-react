@@ -51,8 +51,6 @@
     // Eventlistener that start the timer
     allaParkeringarBtn.addEventListener('click', function() {
         //ledigaParkeringarBtn.addEventListener('click', function() {
-        //start = new Date().getTime();
-        //start = console.time();
         start = performance.now();
     });
 
