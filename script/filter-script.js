@@ -67,7 +67,7 @@
         allaParkeringarBtn.click();
         //ledigaParkeringarBtn.click();
 
-        // Checks if the application has 100% rendered the page
+        // Checks if the is ready to start render
         window.requestAnimationFrame(function () {
             // end-variable.
             end = performance.now();
