@@ -70,7 +70,6 @@
 
         // Checks if the application has loaded 100% before rendering the page
         window.requestAnimationFrame(function () {
-            //window.onload = function () {
             // end-variable.
             end = performance.now();
 
